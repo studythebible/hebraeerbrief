@@ -1,0 +1,52 @@
+--- 
+title: "Die Bibel kennen: Hebräerbrief"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+theme: cerulean
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: bibelstudy/hebraeerbrief
+description: "Hebräerbrief - Eine 12-wöchige praktische Studienreihe"
+---
+
+# Studienplan
+
+Eine 12-wöchige praktische Studienreihe über den Hebräerbrief
+von Matthew Z. Capps [english](https://www.thegospelcoalition.org/course/knowing-bible-hebrews).
+
+Übersetzt aus dem Englischen von eurem Diener.
+
+
+
+
+
+* [Woche 1: Übersicht](#woche1)
+* [Woche 2: Einführung: Die Vormachtstellung Jesu Christi (Hebr. 1,1-4)](#woche1)
+* [Woche 3: Jesus ist den Engelswesen überlegen (Hebr. 1,5-2,18)](#woche1)
+* Woche 4: Jesus ist Mose überlegen (Hebr. 3:1-4:13)
+* Woche 5: Jesus ist der oberste Hohepriester, Teil 1 (Hebr. 4:14-5:10)
+* Woche 6: Eine Warnung vor dem Glaubensabfall (Hebr. 5:11-6:20)
+* Woche 7: Jesus ist der oberste Hohepriester, Teil 2 (Hebr. 7:1-8:13)
+* Woche 8: Jesus ist das überlegene Opfer (Hebr. 9:1-10:18)
+* Woche 9: Der Ruf zum Glauben (Hebr. 10:19-11:40)
+* Woche 10: Der Ruf zur Ausdauer (Hebr. 12:1-29)
+* Woche 11: Letzte Ermahnungen (Hebr. 13:1-25)
+* Woche 12: Zusammenfassung und Schlussfolgerung
+
+
+
+```{block, type='infobox'}
+**Soli Deo Gloria**
+```
+
+***
+
+Nur für private Zwecke.
+
+Hebrews: A 12-Week Study © 2015 by Matthew Z. Capps. All rights reserved.
+
+https://www.thegospelcoalition.org/course/knowing-bible-hebrews/#week-1-overview
