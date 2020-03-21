@@ -5,6 +5,6 @@
       ga.setAttribute('async', 'true');
       document.documentElement.firstChild.appendChild(ga);
   })();
-  var bsQuery = '.level1'; // jQuery-Selektor für Wrapper der Suche (optional)
+  var bsQuery = '.page-inner'; // jQuery-Selektor für Wrapper der Suche (optional)
   var bsTrl   = 'SLT';      // Verlinkte Übersetzung (optional)
 </script>
