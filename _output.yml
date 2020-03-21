@@ -1,6 +1,6 @@
 bookdown::gitbook:
   includes:
-   after_body: code_bibelgateway.js
+   after_body: code.js
   css: style.css
   edit : null
   toc_depth: 1
