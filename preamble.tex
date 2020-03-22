@@ -31,7 +31,7 @@
   coltext=black,
   boxsep=5pt,
   arc=4pt}
-  
+
 \newenvironment{infobox}
   {
   \begin{itemize}
@@ -49,22 +49,38 @@
   \end{blackbox}
   \end{itemize}
   }
-  
-  \newenvironment{definition}
-  {
+
+\newenvironment{definition}{
   \begin{itemize}
-  \renewcommand{\labelitemi}{
-    \raisebox{-.7\height}[0pt][0pt]{
-      {\setkeys{Gin}{width=3em,keepaspectratio}
-        \includegraphics{images/caution}}
+    \renewcommand{\labelitemi}{
+      \raisebox{-.7\height}[0pt][0pt]{
+        {\setkeys{Gin}{width=3em,keepaspectratio}
+          \includegraphics{images/caution}
+        }
+      }
     }
-  }
-  \setlength{\fboxsep}{1em}
-  \begin{blackbox}
-  \item
-  }
-  {
+    \setlength{\fboxsep}{1em}
+    \begin{blackbox}
+      \item
+}{
   \end{blackbox}
   \end{itemize}
-  }
+}
+
+\newenvironment{quotebox}{
+  \begin{itemize}
+    \renewcommand{\labelitemi}{
+      \raisebox{-.7\height}[0pt][0pt]{
+        {\setkeys{Gin}{width=3em,keepaspectratio}
+          \includegraphics{images/quote}
+        }
+      }
+    }
+    \setlength{\fboxsep}{1em}
+    \begin{blackbox}
+      \item
+}{
+  \end{blackbox}
+  \end{itemize}
+}
 %

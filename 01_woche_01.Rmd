@@ -1,4 +1,4 @@
-# Woche 1: Übersicht {#woche1}
+# Woche 1: Übersicht {#woche01}
 
 ## Einführung
 
@@ -13,7 +13,12 @@ Das zentrale Motiv der Hebräer ist "Jesus Christus ist besser" (die Worte "bess
 Der Hebräerbrief enthält 35 direkte Zitate aus dem Alten Testament und noch dazu viele Anspielungen und Verweisen auf das alten Testament. Mit dem alttestamentlichen Hintergrund im Sinn, argumentiert der Autor, dass Gottes Herrlichkeit und Erlösungsplan schliesslich und am deutlichsten in Jesus Christus offenbart werden. Die Überlegenheit Jesu zeigt sich darin, dass er grösser ist als jeder Engel, Priester oder jede Institution des Alten Bundes. Christus ist das vollständige Sühneopfer und der letzte Priester. In ihm sehen wir die Erfüllung aller Hoffnungen und Verheissungen des Alten Testaments, die das lang ersehnte neue Zeitalter des Bundes einleiten.
 
 ## Schlüsselvers
-> "Er [Jesus] ist die Ausstrahlung der Herrlichkeit Gottes und die genaue Prägung seiner Natur, und er hält das Universum durch das Wort seiner Macht aufrecht. Nachdem er die Reinigung für die Sünden vorgenommen hatte, setzte er sich zur Rechten der Majestät in der Höhe . . ." (Hebr 1,3).
+
+```{block, type='quotebox'}
+[Jesus] ist die Ausstrahlung seiner Herrlichkeit und der Ausdruck seines Wesens und trägt alle Dinge durch das Wort seiner Kraft; er hat sich, nachdem er die Reinigung von unseren Sünden durch sich selbst vollbracht hat, zur Rechten der Majestät in der Höhe gesetzt. 
+
+-- Hebräer 1,3
+```
 
 ## Datum und historischer Hintergrund
 

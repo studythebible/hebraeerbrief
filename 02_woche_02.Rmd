@@ -1,4 +1,4 @@
-# Woche 2: Einführung: Die Vormachtstellung Jesu Christi {#woche2}
+# Woche 2: Einführung: Die Vormachtstellung Jesu Christi {#woche02}
 
 ## Der Ort der Passage
 
@@ -35,7 +35,7 @@ Nachdem er sich für die Sünden gereinigt hatte, setzte sich Jesus "zur rechten
 Jesus wird nicht nur den Propheten, sondern auch den Engeln wegen seines vorzüglicheren geerbten Namens für überlegen erklärt (Hebr. 1,4). Der Autor scheint 2. Samuel 7 in Bezug auf die Ehre, die Jesus als Davidischer Erbe zuteil wurde, zu wiederholen. Welche Bedeutung hat es, Jesus in der Position des königlichen Erben von den Engeln zu unterscheiden?
 
 ```{block, type='definition'}
-**Engel – Definition**
+**Engel -- Definition**
 
 Ein übernatürlicher Gesandter Gottes, oft gesandt, um seinen Willen zu erfüllen oder den Menschen bei der Erfüllung seines Willens zu helfen. Obwohl Engel mächtiger sind als Menschen und oft Ehrfurcht einflößen, sollen sie nicht angebetet werden (Kol. 2,18; Offb. 22,8-9). In der Bibel gibt es jedoch verschiedene Erscheinungen eines "Engels des Herrn", der offenbar eine physische Manifestation Gottes selbst ist.
 
@@ -52,7 +52,7 @@ Lesen Sie die folgenden drei Abschnitte zu den Themen Evangeliums-Blicke, Ganz-B
 
 
 ```{block, type='definition'}
-**Sünde – Definition**
+**Sünde -- Definition**
 
 Jede Verletzung oder Nichtbeachtung der Gebote Gottes oder der Wunsch, dies zu tun.
 ```
@@ -93,4 +93,4 @@ Nur für private Zwecke. Übersetzt aus dem Englischen von eurem Diener
 
 Hebrews: A 12-Week Study © 2015 by Matthew Z. Capps. All rights reserved.
 
-https://www.thegospelcoalition.org/course/knowing-bible-hebrews/#week-1-overview
+https://www.thegospelcoalition.org/course/knowing-bible-hebrews/#week-2-introduction-the-supremacy-of-jesus-christ-heb-11-4
