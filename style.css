@@ -42,3 +42,14 @@ pre code {
   background: #f0f8ff 5px center/3em no-repeat;
   background-image: url("images/quote.png");
 }
+
+.biblebox {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  color: #2D4063;
+  border: 2px solid #2D4063;
+  border-radius: 10px;
+  background: #f0f8ff 5px center/3em no-repeat;
+  background-image: url("images/bible.png");
+}
+
