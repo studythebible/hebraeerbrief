@@ -1,3 +1,4 @@
+\usepackage[scaled=0.92]{helvet}
 \usepackage{booktabs}
 \usepackage{amsthm}
 
@@ -56,6 +57,23 @@
       \raisebox{-.7\height}[0pt][0pt]{
         {\setkeys{Gin}{width=3em,keepaspectratio}
           \includegraphics{images/caution}
+        }
+      }
+    }
+    \setlength{\fboxsep}{1em}
+    \begin{blackbox}
+      \item
+}{
+  \end{blackbox}
+  \end{itemize}
+}
+
+\newenvironment{biblebox}{
+  \begin{itemize}
+    \renewcommand{\labelitemi}{
+      \raisebox{-.7\height}[0pt][0pt]{
+        {\setkeys{Gin}{width=3em,keepaspectratio}
+          \includegraphics{images/bible}
         }
       }
     }

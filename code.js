@@ -8,3 +8,12 @@
   //var bsQuery = '.page-inner'; // jQuery-Selektor für Wrapper der Suche (optional)
   var bsTrl   = 'SLT';      // Verlinkte Übersetzung (optional)
 </script>
+
+
+$(document).ready(function () {
+  $("a").tooltip({
+    'selector': '',
+    'placement': 'top',
+    'container':'body'
+  });
+});
