@@ -8,6 +8,18 @@ bookdown::render_book("index.Rmd", "bookdown::gitbook")
 bookdown::render_book("index.Rmd", "bookdown::pdf_book")
 bookdown::render_book("index.Rmd", "bookdown::tufte_book2")
 
+
+library(rmarkdown)
+library(bookdown)
+library(komadown)
+scrartcl("index.Rmd")
+
+
+scrartcl(..., number_sections = TRUE,
+  md_extensions = c("-autolink_bare_uris"), csl = NULL)
+
+
+
 - Bedeutung des Abschnittes
 - Das Gesamtbild
 - Reflexion und Diskussion

@@ -1,6 +1,9 @@
 \usepackage[scaled=0.92]{helvet}
 \usepackage{booktabs}
 \usepackage{amsthm}
+\usepackage{lmodern}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
 
 
 
@@ -26,18 +29,20 @@
 % add Manu
 \definecolor{aliceblue}{rgb}{0.94, 0.97, 1.0}
 
-\newtcolorbox{blackbox}{
+\newtcolorbox{blackbox_save}{
   colback=aliceblue,
   colframe=orange,
   coltext=black,
   boxsep=5pt,
   arc=4pt}
 
+\newtcolorbox{blackbox}{}
+
 \newenvironment{infobox}
   {
   \begin{itemize}
   \renewcommand{\labelitemi}{
-    \raisebox{-.7\height}[0pt][0pt]{
+    \raisebox{-.4\height}[0pt][0pt]{
       {\setkeys{Gin}{width=3em,keepaspectratio}
         \includegraphics{images/caution}}
     }
@@ -54,7 +59,7 @@
 \newenvironment{definition}{
   \begin{itemize}
     \renewcommand{\labelitemi}{
-      \raisebox{-.7\height}[0pt][0pt]{
+      \raisebox{-.4\height}[0pt][0pt]{
         {\setkeys{Gin}{width=3em,keepaspectratio}
           \includegraphics{images/caution}
         }
@@ -71,7 +76,7 @@
 \newenvironment{biblebox}{
   \begin{itemize}
     \renewcommand{\labelitemi}{
-      \raisebox{-.7\height}[0pt][0pt]{
+      \raisebox{-.4\height}[0pt][0pt]{
         {\setkeys{Gin}{width=3em,keepaspectratio}
           \includegraphics{images/bible}
         }
