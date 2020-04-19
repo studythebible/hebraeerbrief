@@ -9,5 +9,6 @@
   var bsTrl   = 'SLT';      // Verlinkte Übersetzung (optional)
 </script>
 
+<script src="https://hypothes.is/embed.js" async></script>
 
 
