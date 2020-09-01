@@ -1,6 +1,10 @@
 book_filename: "hebraeerbrief_studie"
 language:
+  label:
+    fig: "Fig. "
+    tab: "Tab. "
   ui:
-    chapter_name: ""
+    edit: "Edit"
+    chapter_name: "Chapter "
 delete_merged_file: true
 output_dir: "docs"

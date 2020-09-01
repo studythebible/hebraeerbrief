@@ -1,6 +1,6 @@
 # Woche 6: Eine Warnung vor dem Glaubensabfall {#woche06}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 5,11-6,20**
 ```
 
@@ -49,14 +49,14 @@ In der Antike erforderten Eide einen Appell an eine höhere Autorität. In diese
 Während der Autor die Leser vor einem Abfall vom Glauben warnt, verankert er auch ihre Heilsgewissheit in Jesus Christus (Hebräer 6,19-20). Welche Bedeutung haben die alttestamentlichen Hinweise in diesem Abschnitt für die Festigung Jesu als Manifestation der Hoffnung für das Volk Gottes (Matthäus 27,51; Hebräer 9,3; 10,20)?
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Busse -- Definition**
 
 Ein völliger Sinneswandel in Bezug auf die allgemeine Einstellung zu Gott und/oder die eigenen Handlungen. Wahre Regeneration und Bekehrung geht immer mit Busse einher.
 ```
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Eid -- Definition**
 
 Das Volk Gottes wurde im Alten Testament davor gewarnt, Versprechen unüberlegt oder falsch zu schwören (3. Mose 5,4; 19,11-12). Manchmal wurden Eide in Gottes Namen geschworen, als ob sie eine Garantie dafür sein sollten, aber Jesus sagte seinen Jüngern, überhaupt keine Eide zu schwören. Vielmehr sollten sie ihre einfache Aussage "ja" ja und ihr "nein" nein bedeuten lassen (Matthäus 5,33-37). Gottes eigener Eid ist jedoch eine endgültige und unanfechtbare Garantie (Hebräer 6,13-20).
@@ -83,7 +83,7 @@ Lesen Sie die folgenden drei Abschnitte zu den Themen "Einblicke in das Evangeli
 
 **UNVERZEIHLICHE SÜNDE.** In den Evangelienberichten spricht Jesus von der unverzeihlichen Sünde, nämlich der Gotteslästerung gegen den Heiligen Geist (Matthäus 12,31-32; Markus 3,29; Lukas 12,10). In Hebräer 6,4-6 spricht der Autor von denen, die die Überzeugung von der Wahrheit erfahren und die Güte Gottes gekostet haben und sich dennoch willentlich von Jesus abwenden. Während sie von der Wahrheit des Evangeliums überzeugt sind, widersetzen sie sich ständig und vorsätzlich dem Wirken des Heiligen Geistes, der dieses Evangelium bezeugt (vgl. Hebräer 10,26-27).
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Der Heilige Geist -- Definition**
 
 

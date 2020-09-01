@@ -1,6 +1,6 @@
 # Woche 5: Jesus ist der oberste Hohepriester, Teil 1 {#woche05}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 4,14-5,10**
 ```
 
@@ -33,14 +33,14 @@ Während seines Erdenlebens hat Jesus mit lautem Schreien und unter Tränen inte
 In Hebräer 5,8-9 wird erklärt, dass Jesus durch das, was er erlitt, Gehorsam lernte und dadurch vollkommen wurde. Im Wesentlichen wurde Jesus in dem Sinne "vollkommen gemacht", dass er durch seinen vollkommenen Gehorsam qualifiziert wurde, allen Gläubigen die Quelle der Erlösung zu sein (Hebräer 5,9). Wie kann uns die Erfahrung und Vollkommenheit Jesu Hoffnung geben, wenn uns der von Gott gewollte Gehorsam fehlt?
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Barmherzigkeit -- Definition**
 
 Mitgefühl und Freundlichkeit gegenüber jemandem, der Not leidet, manchmal sogar dann, wenn dieses Leiden auf die eigene Sünde oder Dummheit zurückzuführen ist. Gott zeigt Barmherzigkeit gegenüber seinem Volk, und dieses wiederum ist aufgerufen, Barmherzigkeit gegenüber anderen zu zeigen (Lukas 6,36).
 ```
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Priest -- Definition**
 
 Im alttestamentlichen Israel vertrat der Priester das Volk vor Gott und vertrat Gott vor dem Volk. Nur diejenigen, die von Aaron abstammten, konnten Priester sein. Zu ihren vorgeschriebenen Aufgaben gehörten auch die Inspektion und Entgegennahme von Opfern aus dem Volk und die Überwachung der täglichen Aktivitäten und der Instandhaltung der Stiftshütte oder des Tempels.

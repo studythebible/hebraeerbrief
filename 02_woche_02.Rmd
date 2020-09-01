@@ -1,6 +1,6 @@
 # Woche 2: Einführung: Die Vormachtstellung Jesu Christi {#woche02}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 1,1-4**
 ```
 
@@ -38,7 +38,7 @@ Nachdem er sich für die Sünden gereinigt hatte, setzte sich Jesus "zur rechten
 
 Jesus wird nicht nur den Propheten, sondern auch den Engeln wegen seines vorzüglicheren geerbten Namens für überlegen erklärt (Hebr. 1,4). Der Autor scheint 2. Samuel 7 in Bezug auf die Ehre, die Jesus als Davidischer Erbe zuteil wurde, zu wiederholen. *Welche Bedeutung hat es, Jesus in der Position des königlichen Erben von den Engeln zu unterscheiden?*
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Engel -- Definition**
 
 Ein übernatürlicher Gesandter Gottes, oft gesandt, um seinen Willen zu erfüllen oder den Menschen bei der Erfüllung seines Willens zu helfen. Obwohl Engel mächtiger sind als Menschen und oft Ehrfurcht einflössen, sollen sie nicht angebetet werden (Kol. 2,18; Offb. 22,8-9). In der Bibel gibt es jedoch verschiedene Erscheinungen eines "Engels des Herrn", der offenbar eine physische Manifestation Gottes selbst ist.
@@ -55,7 +55,7 @@ Lesen Sie die folgenden drei Abschnitte zu den Themen "Einblicke in das Evangeli
 **DIE VOLLSTÄNDIGE ERRETTUNG.** Kurz bevor Jesus seinen letzten Atemzug am Kreuz tat, verkündete er: "Es ist vollbracht" (Johannes 19,30). Das Werk, zu dessen Vollendung der Vater ihn gesandt hatte, war vollendet -- sein vollkommenes Opfer für unsere Sünde war vollendet (Hebr. 1,3; 9,11-12, 25-28). Der Verfasser des Hebräerbriefes weist darauf hin, dass sich Jesus, nachdem sein Werk am Kreuz und in der Auferstehung vollendet war, zur rechten Hand Gottes setzte und damit die Endgültigkeit seines Werkes und seines Status unterstrich. Im Gegensatz zu den levitischen Priestern, die Jahr für Jahr unvollkommene Opfer brachten, um die Sünden zu verdecken, brachte Jesus das perfekte Einwegopfer dar, das die Sünde auslöschte -- und dann nahm er seinen Platz ein, um für immer zu regieren (Hebr 10,11-12).
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Sünde -- Definition**
 
 Jede Verletzung oder Nichtbeachtung der Gebote Gottes oder der Wunsch, dies zu tun.

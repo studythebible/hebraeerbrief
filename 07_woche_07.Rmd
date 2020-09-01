@@ -1,6 +1,6 @@
 # Woche 7: Jesus ist der oberste Hohepriester, Teil 2 {#woche07}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 7,1-8,13**
 ```
 
@@ -10,7 +10,7 @@
 Eines der zentralen theologischen Argumente des Hebräerbriefes ist, dass Jesus Christus der höhere Hohepriester in der Ordnung Melchisedeks ist (Hebrärer 5,1-10). In Hebräer 7.1-28 greift der Autor dieses Argument wieder auf und beschreibt das Wesen des Priestertums Jesu, um festzustellen, dass es dem levitischen Priestertum überlegen ist. Jesus dient in der grösseren himmlischen Stiftshütte und hat im neuen Bund bessere Verheissungen erlassen (Hebräer 8,1-13).
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Bund -- Definition**
 
 Eine verbindliche Vereinbarung zwischen zwei Parteien, die in der Regel eine formelle Erklärung ihrer Beziehung, eine Liste von Bestimmungen und Verpflichtungen für beide Parteien, eine Liste von Zeugen für die Vereinbarung und eine Liste von Flüchen für Untreue und Segen für die Treue zur Vereinbarung umfasst. Das Alte Testament wird richtiger als der alte Bund verstanden, d.h. die Vereinbarung, die zwischen Gott und seinem Volk vor dem Kommen Jesu Christi und der Errichtung des neuen Bundes (Neues Testament) getroffen wurde.
@@ -87,14 +87,14 @@ In Hebräer 8,8-12 zitiert der Autor Jeremia 31,31-34 in seiner Gesamtheit. Was 
 
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Recht -- Definition**
 
 DasGesetz kann sich auf die ersten fünf Bücher der Bibel (den Pentateuch) beziehen. Das Gesetz enthält zahlreiche Gebote Gottes an sein Volk, darunter die Zehn Gebote und Anweisungen zu Gottesdienst, Opferung und Leben in Israel. Im Neuen Testament wird oft "das Gesetz" verwendet, um sich auf den gesamten Korpus der in den Büchern des Gesetzes dargelegten Gebote zu beziehen.
 ```
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Heiligtum/Heiliger Ort -- Definition**
 
 In der Bibel ein Ort, der wegen der Gegenwart Gottes dort als heilig beiseite gelegt wurde. Das innere Heiligtum der Stiftshütte (und später des Tempels) wurde der heiligste Ort genannt.
@@ -120,7 +120,7 @@ Lesen Sie die folgenden drei Abschnitte zu den Themen "Einblicke in das Evangeli
 
 **JEREMIAS HOFFNUNG.** Jeremia 31,31-34, der in Hebräer 8,8-12 zitiert wird, befindet sich in einem Abschnitt von Jeremia, den viele als das "Buch der Hoffnung" bezeichnen. Diese Jeremia-Passage bietet den Exil-Israeliten Hoffnung, dass sie eines Tages wieder in ihre Heimat zurückkehren werden. An jenem Tag wird sich ihre Trauer in Freude verwandeln, und anstelle von Trauer wird ihnen ihr Gott Trost und Freude schenken. In Christus findet diese Hoffnung ihre Verwirklichung und schliesslich ihren Höhepunkt (Offenbarung 21,1-5). Wo der alte Bund am Unglauben Israels scheiterte, ist die Wirklichkeit des neuen Bundes unter dem vollkommenen Werk Christi gesichert.
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Israel -- Definition**
 
 Ursprünglich ein anderer Name, der Jakob gegeben wurde (1. Mose 32:28). Später galt er für die von seinen Nachkommen gebildete Nation, dann für die zehn nördlichen Stämme dieser Nation, die den gesalbten König ablehnten und ihre eigene Nation bildeten. Im Neuen Testament wird der Name auf die Gemeinde als die geistlichen Nachkommen Abrahams angewandt (Galater 6,16).

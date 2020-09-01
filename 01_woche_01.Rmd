@@ -17,7 +17,7 @@ Der Hebräerbrief enthält 35 direkte Zitate aus dem Alten Testament und noch da
 
 ## Schlüsselvers
 
-```{block, type='quotebox'}
+```{block, type='rmdquote'}
 [Jesus] ist die Ausstrahlung seiner Herrlichkeit und der Ausdruck seines Wesens und trägt alle Dinge durch das Wort seiner Kraft; er hat sich, nachdem er die Reinigung von unseren Sünden durch sich selbst vollbracht hat, zur Rechten der Majestät in der Höhe gesetzt. 
 
 -- Hebräer 1,3

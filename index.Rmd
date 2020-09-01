@@ -2,15 +2,20 @@
 title: "Die Bibel kennen: Hebräerbrief"
 author: ""
 date: "`r Sys.Date()`"
+description: "Eine 12-wöchige praktische Studienreihe über den Hebräerbrief"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 theme: cerulean
-documentclass: krantz
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
+colorlinks: yes
+bibliography:
+- book.bib
+- packages.bib
 github-repo: bibelstudy/hebraeerbrief
-description: "Hebräerbrief - Eine 12-wöchige praktische Studienreihe"
+link-citations: yes
+biblio-style: apalike
+documentclass: krantz
+fontsize: 12pt
+cover-image: img/cover.png
 ---
 
 # Studienplan
@@ -39,7 +44,7 @@ von Matthew Z. Capps [(Quelle auf English)](https://www.thegospelcoalition.org/c
 
 
 
-```{block, type='infobox'}
+```{block, type='rmdinfo'}
 **Soli Deo Gloria**
 ```
 

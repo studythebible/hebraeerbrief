@@ -1,6 +1,6 @@
 # Woche 4: Jesus ist Mose überlegen {#woche04}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 3,1-4,13**
 ```
 
@@ -38,7 +38,7 @@ In Hebräer 4,4 spricht der Autor von der Einkehr in Gottes Ruhe in Bezug auf de
 
 Nachdem der Autor die Leser aufgerufen hat, sich darum zu bemühen, in Beharrlichkeit in Gottes Ruhe einzutreten, erinnert er sie daran, dass treuloser Ungehorsam nicht unbemerkt bleiben wird (Hebräer 4,11-13). Wenn wir wissen, dass Gottes Wort wie ein Mittel wirkt, das die innersten Gedanken und Absichten offenbart, wie können wir dann sein Wort benutzen, um Ungehorsam und Unglauben zu bekämpfen?
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Sabbat -- Definition**
 
 Samstag, der siebte Tag der Woche, der jüdische Tag der Anbetung und der Ruhe (1. Mose 2,2-3; Ex 31,13-17). Christen treffen sich am Sonntag, dem Tag der Auferstehung Christi (Apg 20,7), zum Gottesdienst und betrachten den Sonntag statt des Samstags als ihren wöchentlichen Ruhetag. Und doch freuen sich die Gläubigen auf eine ewige Sabbatruhe (Hebr 4,1-13).
@@ -46,7 +46,7 @@ Samstag, der siebte Tag der Woche, der jüdische Tag der Anbetung und der Ruhe (
 ```
 
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Werke -- Definition**
 
 Handlungen und Einstellungen, entweder gut oder schlecht. Wahrer Glaube an Christus wird unweigerlich gute Werke hervorbringen, die Gott wohlgefällig sind. Gute Werke können niemals die Grundlage oder das Mittel zur Erlösung sein, die allein aus Gnade durch den Glauben erfolgt.

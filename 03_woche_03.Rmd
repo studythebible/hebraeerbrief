@@ -1,6 +1,6 @@
 # Woche 3:  Jesus ist den Engelswesen überlegen {#woche03}
 
-```{block, type='biblebox'}
+```{block, type='rmdbible'}
  **Lese Hebräer 1,5-2,18**
 ```
 
@@ -13,7 +13,7 @@ Durch eine Kette von alttestamentlichen Passagen wird Jesus als der einzige Sohn
 
 Hebräer 1,5-2,18 erhebt Jesus über die Engel als den einzigartigen Sohn Gottes, der die Sünden der Menschheit versühnte und nun als Mittler und Hoherpriester zwischen Gott und der Menschheit dient.
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
  **Sühne -- Definition**
 
 Die Beschwichtigung des Zorns durch die Darbringung einer Gabe oder eines Opfers. Jesus versöhnte die Sünden der Menschheit durch sein Leiden und seinen Tod (Römer 3,25; Hebr 2,17; 1. Johannes 2,2; 4,10).
@@ -46,7 +46,7 @@ In Hebräer 2,10-13 zitiert der Autor Psalm 22,22 und Jesaja 8,17b-18, um zu zei
 
 In Hebräer 2,14-18 sehen wir die Solidarität Jesu mit der Menschheit, indem er "Fleisch und Blut" annimmt. Doch im Gegensatz zu dem, was jeder andere Mensch hätte tun können, stürmte Jesus die Tore des Todes, besiegte den Bösen und befreite uns aus der Sklaverei bis zum Tod (Hebr. 2,14-16). *Wie also gibt Hebräer 2,17-18 den Gläubigen inmitten geistlicher Gebrechen Hoffnung?*
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Gnade -- Definition**
 
 Unverdiente Gunst, insbesondere die kostenlose Gabe der Erlösung, die Gott den Gläubigen durch den Glauben an Jesus Christus schenkt.
@@ -72,7 +72,7 @@ Lesen Sie die folgenden drei Abschnitte zu den Themen "Einblicke in das Evangeli
 
 **BESCHAFFUNG.** Das Wort "Versöhnung" vermittelt den Sinn eines Sühneopfers, das den Zorn Gottes gegen die Sünde befriedigt (Römer 3,25; Hebr 2,17). In der gesamten Erlösungsgeschichte wird Gottes gerechter Zorn als Notwendigkeit gezeigt, besänftigt zu werden, bevor die Sünde des Volkes Gottes vergeben werden kann. Die endgültige Versöhnung durch Christus, die ein für allemal den vollen Lohn für die Sünde bringt, wird im Alten Testament mehrmals angedeutet (Ex 32,11-14; Num 25,8; Josh 7,25-26). Wo die alttestamentlichen Opfer versagten, gelang es Jesus, Gottes Zorn ein für allemal gegen die Sünde seines Volkes zu versöhnen.
 
-```{block, type='definition'}
+```{block, type='rmddefinition'}
 **Erlösung -- Definition**
 
 Befreiung von den ewigen Folgen der Sünde. Der Tod und die Auferstehung Jesu erkauften den Gläubigen ewige Erlösung (Römer 1,16).
